@@ -1,0 +1,94 @@
+.navbar-nav{
+    margin-left: auto;
+}
+.navbar{
+    background-color: white !important;
+}
+.BR{
+    margin-right: 5px;
+}
+.navbar-brand:hover{
+    background-color: rgba(110, 105, 105, 0.538);
+}
+.nav-link:hover{
+    background-color: rgba(110, 105, 105, 0.538);
+}
+
+.nav-link{
+    margin: 5px;
+}
+.navbar-brand{
+    font-size: 20px;
+
+}
+h5{
+    text-align: center;
+}
+h1{
+    color: white;
+}
+.b1r{
+    background-color: black;
+    opacity: .75;
+    margin-left: -120px;
+    padding: 17px;
+}
+h3{
+    color: white;
+    background-color: black;
+    font-size: 20px;
+    font-weight: 300;
+    padding: 10px;
+    width: 170px;
+}
+.row{
+    margin: 10px !important;
+    margin-left: 200px;
+}
+.cc{
+    width: 99%;
+    margin: .5%;
+}
+.JohnDoe{
+    font-size: 30px;
+    text-align: left;
+}
+.card-text{
+    font-size: 12px;
+    opacity: 90%;
+}
+.Contact{
+    width: 100%;
+    color: black;
+    background-color: beige;
+    text-align: center;
+    border: none;
+}
+button:hover{
+    background-color: rgba(122, 122, 96, 0.327);
+    display: block;
+}
+h6{
+    font-size: 25px;
+}
+.zzx{
+    width: 100%;
+}
+.xxx{
+    background-color: black;
+    color: white;
+    border-right: 100px;
+}
+.xxx:hover{
+    color: rgb(0, 0, 0);
+}
+.wew{
+    text-align: center;
+    background-color: black;
+    font-size: 17px;
+    color: white;
+    padding: 30px;
+}
+a{
+    color: white;
+}
